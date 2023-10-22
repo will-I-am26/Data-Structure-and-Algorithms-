@@ -1,0 +1,12 @@
+﻿  UnitTest1.cpp
+C:\Users\William Yang\OneDrive\Desktop\Cis350\CIS350Assignment4Question5\Header.h(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\William Yang\OneDrive\Desktop\Cis350\CIS350Assignment4Question5\Header.h(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\William Yang\OneDrive\Desktop\Cis350\CIS350Assignment4Question5\Header.h(216,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\William Yang\OneDrive\Desktop\Cis350\CIS350Assignment4Question5\Header.h(230,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\William Yang\OneDrive\Desktop\Cis350\CIS350Assignment4Question5\Header.h(162,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\William Yang\OneDrive\Desktop\Cis350\UnitTest1\UnitTest1.cpp(45,1): message : see reference to function template instantiation 'void bookMergeSort<int,compareClass>(std::list<int,std::allocator<int>> &,const C &)' being compiled
+          with
+          [
+              C=compareClass
+          ]
+  UnitTest1.vcxproj -> C:\Users\William Yang\OneDrive\Desktop\Cis350\CIS350Assignment4Question5\x64\Debug\UnitTest1.dll
