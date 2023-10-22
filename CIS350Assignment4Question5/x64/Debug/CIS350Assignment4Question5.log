@@ -1,0 +1,7 @@
+﻿  Question5cpp.cpp
+C:\Users\William Yang\OneDrive\Desktop\Cis350\CIS350Assignment4Question5\Header.h(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\William Yang\OneDrive\Desktop\Cis350\CIS350Assignment4Question5\Header.h(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\William Yang\OneDrive\Desktop\Cis350\CIS350Assignment4Question5\Header.h(216,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\William Yang\OneDrive\Desktop\Cis350\CIS350Assignment4Question5\Header.h(230,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\William Yang\OneDrive\Desktop\Cis350\CIS350Assignment4Question5\Question5cpp.cpp(29,15): warning C4101: 'compare': unreferenced local variable
+  CIS350Assignment4Question5.vcxproj -> C:\Users\William Yang\OneDrive\Desktop\Cis350\CIS350Assignment4Question5\x64\Debug\CIS350Assignment4Question5.exe
